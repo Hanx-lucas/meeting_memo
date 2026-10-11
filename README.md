@@ -1,4 +1,4 @@
-# Industry Research Meeting Memo
+# Industry Research Meeting Memo 行业研究会议纪要
 
 行研会议纪要 Skill：将行业交流或专家访谈的转写文本、飞书妙记 TXT、MP3/M4A 录音和已有 Word 草稿整理成可交付的 DOCX 纪要，也适用于一般中文会议。
 
