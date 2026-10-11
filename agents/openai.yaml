@@ -1,0 +1,6 @@
+interface:
+  display_name: "行研会议纪要"
+  short_description: "按录音顺序完整整理中文纪要，支持自带模板、书面化表达与关键数据核验"
+  default_prompt: "使用 $industry-research-meeting-memo，按录音顺序整理这些材料，保留完整信息、核对关键数据，并使用我上传的模板或内置模板输出 Word 会议纪要。"
+policy:
+  allow_implicit_invocation: true

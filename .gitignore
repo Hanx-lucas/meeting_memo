@@ -1,0 +1,14 @@
+.obsidian/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+~$*
+release/
+qa/
+*.mp3
+*.m4a
+*.wav
